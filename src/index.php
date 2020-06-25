@@ -2,7 +2,7 @@
 
 namespace mohan\HelloWorld;
 
-class Index
+class Greeting
 {
     public function greet($greet = "Hello World")
     {
