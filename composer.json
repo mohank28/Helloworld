@@ -1,0 +1,15 @@
+{
+    "name": "mohan/helloworld",
+    "description": "My First Package",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Mohan.K",
+            "email": "mohan19660@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {"mohan\\HelloWorld\\": "src/"}
+    },
+}
